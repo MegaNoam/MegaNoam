@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Parlamentum & ParlaGames Owner, Java Developer, YouTube content creator and Gamer
+### Java Developer, YouTube content creator and Gamer
 
 ### Contact with me:
 
