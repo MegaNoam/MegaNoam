@@ -15,30 +15,38 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Java Developer, YouTube content creator and Gamer
+### FullStack Developer, YouTube content creator and Gamer
 
 ### Contact with me:
-
 [<img align="left" alt="MegaNoam | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>][youtube]
 [<img align="left" alt="MegaNoam | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/discord.svg"/>][discord]
 [<img align="left" alt="MegaNoam | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/instagram.svg"/>][instagram]
 [<img align="left" alt="MegaNoam | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/twitter.svg"/>][twitter]
 [<img align="left" alt="MegaNoam | Tiktok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/tiktok.svg"/>][tiktok]
+<br/>
 
+### Languages:
+<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"/>
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg"/>
+<img align="left" alt="React.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg"/>
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg"/>
+<img align="left" alt="Electron.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/electron.svg"/>
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/>
+<br/>
 
-<br/> 
+### Databases:
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg"/>
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mongodb.svg"/>
+<br/>
 
-### Languages and Tools:
-
-<img align="left" alt="Python" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822920.svg"/>
-<img align="left" alt="Java" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/152/152760.svg"/>
-<img align="left" alt="Git" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/52/52040.svg"/>
-<img align="left" alt="GitHub" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/38/38401.svg"/>
-<img align="left" alt="Kubernetes" width="26px" src="https://img.icons8.com/windows/452/kubernetes.png"/>
-<img align="left" alt="Docker" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/919/919853.svg"/>
-<img align="left" alt="Raspberry Pi" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/919/919855.svg"/>
-<img align="left" alt="Google Cloud" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/873/873117.svg"/>
-
+### Tools:
+<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg"/>
+<img align="left" alt="Kubernetes" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kubernetes.svg"/>
+<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg"/>
+<img align="left" alt="Azure" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/azuredevops.svg"/>
+<img align="left" alt="OpenShift" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/redhatopenshift.svg"/>
+<img align="left" alt="Raspberry Pi" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/raspberrypi.svg"/>
 
 <br/> <br/>
 
